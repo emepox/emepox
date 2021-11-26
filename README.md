@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 
+
+My name is Maria, my pronouns are she/her.
+
+I am currently learning to code in Bumble's Tech Academy.
+
 
 <!--
 **emepox/emepox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
