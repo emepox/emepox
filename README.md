@@ -16,9 +16,8 @@
 
 🌮 Check [my Linkedin](https://www.linkedin.com/in/mariamvg/)!
 
-🥦 This is a Bulbasaur I made with CSS.
+🥦 ![This is a Bulbasaur I made with CSS](https://emepox.github.io/css_bulbasaur/)
 
-![CSS Bulbasaur](https://media-exp1.licdn.com/dms/image/C4E22AQFsz9rZD1REFA/feedshare-shrink_800/0/1626018758340?e=1642032000&v=beta&t=vD9h7trNaD_o6jE7TrrpOgCRd5ShM00WfRbbtLu3uTc)
 
 
 
