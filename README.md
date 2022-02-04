@@ -16,7 +16,7 @@
 
 🌮 Check [my Linkedin](https://www.linkedin.com/in/mariamvg/)!
 
-🥦 ![This is a Bulbasaur I made with CSS](https://emepox.github.io/css_bulbasaur/)
+🥦 [This is a Bulbasaur I made with CSS](https://emepox.github.io/css_bulbasaur/)
 
 
 
