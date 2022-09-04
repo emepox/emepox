@@ -2,11 +2,11 @@
 
 ⭐️ My name is **Maria**, my pronouns are she/her.
 
-🐗 I am currently learning to code in a FullStack bootcamp in Barcelona.
+🐗 I am currently working at Bumble and living in Barcelona.
 
-💃🏻 I have been learning HTML, CSS, JavaScript, React, Vue and MySql.
+🎖 I am a Junior Android developer.
 
-🎖 I am a FullStack Junior developer.
+💃🏻 I work with Kotlin and Compose. I also know HTML, CSS, JavaScript, React, Vue and MySql.
 
 🐔 I like to make CSS Pokemon.
 
