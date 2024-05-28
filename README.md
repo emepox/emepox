@@ -2,17 +2,17 @@
 
 ⭐️ My name is **Maria**, my pronouns are she/her.
 
-🐗 I am currently working at Bumble and living in Barcelona.
+🐗 I am currently living in Vilanova i la Geltrú (Barcelona).
 
-🎖 I am a Junior Android developer.
+🎖 I am an Android developer.
 
 💃🏻 I work with Kotlin and Compose. I also know HTML, CSS, JavaScript, React, Vue and MySql.
 
-🐔 I like to make CSS Pokemon.
+🐔 I like to make CSS Pokemon. I want to make them with Compose too.
 
-🍄 I have experience in technical SEO and in iGaming.
+🍄 I have experience in the iGaming and online dating industries. I was a Technical SEO before.
 
-🌚 I like solving escape rooms and playing Phasmophobia.
+🌚 I like solving escape rooms and reading fan fiction in my free time.
 
 🌮 Check [my Linkedin](https://www.linkedin.com/in/mariamvg/)!
 
